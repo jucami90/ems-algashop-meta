@@ -1,4 +1,4 @@
-# AlgaShop
+# AlgaShop - Event-Driven Microservices Example - DDD, Spring Boot, Java 21
 
 AlgaShop is an e-commerce backend built as an **event-driven microservices system**. It handles the full purchase lifecycle: customer registration, shopping cart management, order placement, shipping cost calculation, invoice generation, and payment processing.
 
